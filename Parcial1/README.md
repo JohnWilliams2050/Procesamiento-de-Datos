@@ -1,7 +1,7 @@
 # **Parcial 1**
 
 ## Pontificia Universidad Javeriana
-## 11 de Agosto de 2025
+## 8 de Septiembre de 2025
 ## Juan Pabon Vargas y Tomas Alejandro Silva Correal
 ## ID: 	00020539153
 
